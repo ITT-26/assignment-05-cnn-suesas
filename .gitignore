@@ -1,0 +1,10 @@
+.venv/
+.DS_Store
+.cache/
+.matplotlib-cache/
+__pycache__/
+.ipynb_checkpoints/
+gesture_recognition/
+misc/
+hagrid_subset/
+03-camera-app/selfie.jpg
