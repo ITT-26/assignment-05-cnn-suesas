@@ -1,4 +1,4 @@
-# suesas (8/20)
+# suesas (18/20)
 
 ## Exploring Hyperparameters (5/5)
 
